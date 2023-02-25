@@ -14,12 +14,12 @@ const HeroDetail = () => {
   return (
     <div style={{ marginTop: '100px' }}>
       <Card
-        name={heroStat.localized_name}
-        picks={heroStat.turbo_picks}
-        image={heroStat.img}
-        roles={heroStat.roles}
-        wins={heroStat.turbo_wins}
-        type={heroStat.attack_type}
+        name={heroStat?.localized_name}
+        picks={heroStat?.turbo_picks}
+        image={heroStat?.img}
+        roles={heroStat?.roles}
+        wins={heroStat?.turbo_wins}
+        type={heroStat?.attack_type}
         details={false}
       />
     </div>

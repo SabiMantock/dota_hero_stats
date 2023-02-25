@@ -76,7 +76,7 @@ const Card = ({
             </div>
             <div style={{ marginTop: '5px' }}>
               <span style={{ fontWeight: 700 }}>Roles: </span>
-              <span>{roles.slice(0, 3).map((role) => `${role} `)}</span>
+              <span>{roles?.slice(0, 3).map((role) => `${role} `)}</span>
             </div>
             <div style={{ marginTop: '5px' }}>
               <span style={{ fontWeight: 700 }}>Turbo Picks: </span>

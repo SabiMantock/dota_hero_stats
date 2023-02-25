@@ -205,7 +205,7 @@ If you like this project, please give it a ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Microverse](https://github.com/microverseinc) and Nelson Sakwa for providing the wireframe for this project.
+I would like to thank [Microverse](https://github.com/microverseinc) and [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for providing the wireframe for this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
