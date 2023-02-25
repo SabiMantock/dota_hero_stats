@@ -1,7 +1,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <img src="dota-2.png" alt="logo" width="140"  height="auto" />
+   <img src="dota-2.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h1><b>Dota Hero Stats</b></h1>
@@ -12,25 +12,26 @@
 
 - [� Table of Contents](#-table-of-contents)
 - [📖 Dota Hero Stats](#-about-project)
-  - [🛠 Built With](#-built-with-)
-    - [Tech Stack](#tech-stack-)
-    - [Key Features](#key-features-)
+  - [🛠 Built With ](#-built-with-)
+    - [Tech Stack ](#tech-stack-)
+    - [Key Features ](#key-features-)
+  - [📷 Screenshot](#-screen-shot-)
   - [🎥 Video Demo](#-video-demo-)
-  - [🚀 Live Demo](#-live-demo-)
-  - [💻 Getting Started](#-getting-started-)
+  - [🚀 Live Demo ](#-live-demo-)
+  - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
     - [Setup](#setup)
     - [Install](#install)
     - [Usage](#usage)
     - [Run tests](#run-tests)
     - [Deployment](#deployment)
-  - [👥 Authors](#-authors-)
-  - [🔭 Future Features](#-future-features-)
-  - [🤝 Contributing](#-contributing-)
-  - [⭐️ Show your support](#️-show-your-support-)
-  - [🙏 Acknowledgments](#-acknowledgments-)
-  - [❓ FAQ (OPTIONAL)](#-faq-optional-)
-  - [📝 License](#-license-)
+  - [👥 Authors ](#-authors-)
+  - [🔭 Future Features ](#-future-features-)
+  - [🤝 Contributing ](#-contributing-)
+  - [⭐️ Show your support ](#️-show-your-support-)
+  - [🙏 Acknowledgments ](#-acknowledgments-)
+  - [❓ FAQ (OPTIONAL) ](#-faq-optional-)
+  - [📝 License ](#-license-)
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -59,7 +60,7 @@ The Dota Hero Stats App is a mobile web application that allows users to view a 
 <details>
 <summary>Database</summary>
   <ul>
-    <li><a href="https://api.opendota.com/api/heroStats">Dota Hero Stats</a></li>
+     <li><a href="https://api.opendota.com/api/heroStats">Dota Hero Stats</a></li>
   </ul>
 </details>
 
@@ -68,6 +69,7 @@ The Dota Hero Stats App is a mobile web application that allows users to view a 
 ### Key Features <a name="key-features"></a>
 
 - Home page
+
   - When the page loads, the webapp shows the list of categories that could be filtered out by the country name.
   - Along with the category name, you will display some numeric values per category that come from the API.
   - When the user clicks (or taps) on a category item, the application navigates to the details page.
@@ -80,15 +82,26 @@ The Dota Hero Stats App is a mobile web application that allows users to view a 
 
 <!-- LIVE DEMO -->
 
+## 📷 Screenshot <a name="screen-shot"></a>
+
+ <div align="center">
+  <img src="./src/assets/desktop.png" alt="logo"   height="auto" />
+  <img src="./src/assets/mobile.png" alt="logo"   height="auto" />
+  <img src="./src/assets/desktopdetail.png" alt="logo"   height="auto" />
+  <img src="./src/assets/mobiledetail.png" alt="logo"   height="auto" />
+ </div>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 ## 🎥 Video Demo <a name="video-demo"></a>
 
- [Dota Hero Stats]()
+[Dota Hero Stats](https://www.loom.com/share/162cdbbd8a1e4bf99449c5e9c959dc21)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
- [Dota Hero Stats]()
+[Dota Hero Stats](https://dota-hero-stats.onrender.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -112,8 +125,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```bash
-  git clone git@github.com:SabiMantock/Dota_Hero_Stats.git
-  cd Dota_Hero_Stats
+  git clone git@github.com:SabiMantock/dota_hero_stats.git
+  cd dota_hero_stats
 ```
 
 ### Install
@@ -166,7 +179,7 @@ npm run build
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- Add other Player Stats
+- Add Player Stats
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -192,7 +205,7 @@ If you like this project, please give it a ⭐️
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank [Microverse](https://github.com/microverseinc) and Nelson Sakwa for providing the wireframe for this project.
+I would like to thank [Microverse](https://github.com/microverseinc) and [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) for providing the wireframe for this project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
